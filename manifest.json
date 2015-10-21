@@ -1,0 +1,17 @@
+{
+  "name": "Issue redirect",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "omnibox": { "keyword" : "issue" },
+  "options_ui": {
+    "page": "options.html",
+    "chrome_style": true
+  },
+  "permissions": [
+    "storage"
+  ],
+  "minimum_chrome_version": "42" 
+}
