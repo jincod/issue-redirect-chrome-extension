@@ -2,7 +2,7 @@
 
 ## Setup
 	
-- git clone 
+- git clone https://github.com/jincod/issue-redirect-chrome-extension.git
 - Open chrome://extensions/
 - Enable "Developer mode"
 - "Load unpacked extension"
