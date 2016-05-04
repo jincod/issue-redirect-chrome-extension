@@ -1,12 +1,10 @@
 # Issue Redirect Chrome Extension
 
 ## Setup
-	
-	git clone https://github.com/jincod/issue-redirect-chrome-extension.git
-	
-- Open chrome://extensions/
-- Enable "Developer mode"
-- "Load unpacked extension"
+
+- Download latest [release](https://github.com/jincod/issue-redirect-chrome-extension/releases/latest)	
+- Open **chrome://extensions/**
+- Drag downloaded file into a window
 - Set url. Example: [https://youtrack.jetbrains.com/issue/](https://youtrack.jetbrains.com/issue/)
 
 ## Using
